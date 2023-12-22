@@ -1,3 +1,3 @@
 Deno.serve((_request: Request) => {
-  return new Response("Hello");
+  return new Response("Hello world");
 });
